@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotesAPI.api", "NotesAPI.api\NotesAPI.api.csproj", "{FC63C27C-06F3-4E8C-AE50-467A6A7FE887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesAPITest", "NotesAPITest\NotesAPITest.csproj", "{39A52014-6F71-406B-A99D-4388E0BC45EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7CC8E267-CBDD-4EB8-AC75-FA613C1F2DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC63C27C-06F3-4E8C-AE50-467A6A7FE887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC63C27C-06F3-4E8C-AE50-467A6A7FE887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC63C27C-06F3-4E8C-AE50-467A6A7FE887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC63C27C-06F3-4E8C-AE50-467A6A7FE887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A52014-6F71-406B-A99D-4388E0BC45EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A52014-6F71-406B-A99D-4388E0BC45EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A52014-6F71-406B-A99D-4388E0BC45EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A52014-6F71-406B-A99D-4388E0BC45EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151FC842-3936-418A-94B5-F76606960056}
+	EndGlobalSection
+EndGlobal
